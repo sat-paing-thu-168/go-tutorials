@@ -30,7 +30,7 @@ func (s Square) Area() float64 {
 }
 
 func calculateArea(s Shaper) {
-	fmt.Printf("The area for the Shpae is %v\n", s.Area())
+	fmt.Printf("The area for the Shape is %v\n", s.Area())
 }
 
 func describeShaper(s Shaper) {
